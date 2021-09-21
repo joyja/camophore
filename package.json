@@ -21,7 +21,7 @@
     "make-promises-safe": "^5.1.0",
     "node-ssh-forward": "^0.7.2",
     "sqlite3": "^4.2.0",
-    "ssh2": "^0.8.9"
+    "ssh2": "^1.4.0"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
